@@ -1,0 +1,17 @@
+body
+{
+    
+    background-image: url('/images/bg.jpg') ;
+    background-size: cover;
+}
+.mycard
+{
+min-height: 400px;
+background: rgb(58,74,180);
+background: linear-gradient(48deg, rgba(58,74,180,1) 26%, rgba(29,202,253,1) 59%, rgba(214,252,69,1) 100%);
+color: white;
+border-radius: 30px;
+margin-top: 5%;
+box-sizing: border-box;
+padding: 25px;
+}
